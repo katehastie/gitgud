@@ -1,2 +1,2 @@
 # gitgud
-This is a test, please work.
+This is a test, please work. :)
